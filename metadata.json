@@ -1,0 +1,6 @@
+{
+  "name": "WebMudah Villa",
+  "description": "Website landing page resmi WebMudah Villa - Penginapan nyaman, bersih, dan strategis untuk liburan keluarga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
